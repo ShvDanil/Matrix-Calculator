@@ -1,0 +1,30 @@
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.deps.json
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.runtimeconfig.json
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.runtimeconfig.dev.json
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/ref/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.pdb
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/ref/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.pdb
+/Users/shvetsovdanil/Desktop/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.genruntimeconfig.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.deps.json
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.runtimeconfig.json
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.runtimeconfig.dev.json
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/ref/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/bin/Debug/net5.0/MatrixCalculator.pdb
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/ref/MatrixCalculator.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.pdb
+/Users/shvetsovdanil/Desktop/учеба/C# repository/MatrixCalculator/MatrixCalculator/obj/Debug/net5.0/MatrixCalculator.genruntimeconfig.cache
